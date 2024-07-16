@@ -1,0 +1,83 @@
+# Boosting Productivity with Command Line Utilities
+
+18 July 2024
+Ajitem Sahasrabuddhe
+ajitem@technogise.com
+
+## Why Command Line Utilities?
+
+- They are powerful tools for improving productivity.
+- They allow for automation and faster workflows.
+- They are essential for developers, sys admins, and power users.
+
+## What makes up the Command Line Interface?
+
+The CLI allows you to interact with your computer using text-based commands.
+
+.image images/terminal.png _ 275
+
+- **Terminal** - The above images shows a terminal. This is where you type the commands. Windows, macOS, and Linux all come preinstalled with a default terminal program.
+- **Shell** - The shell is a program which runs inside the terminal. It interprets the commands and executes them. Ex. bash, zsh, fish, cmd, powershell etc.
+- **Prompt** - The prompt is provided by the shell and is the input field for the commands that you wish to type in. 
+
+## Basic Utilities
+
+Let's take a look at some of the most common tools. These are preinstalled with Linux / macOS systems.
+
+- **Navigation** - `cd`, `ls`, `pwd`
+- **File Management** - `cp`, `mv`, `rm`, `mkdir`, `touch`, `chmod`, `chown`, `tar`
+- **Viewing Files** - `cat`, `less`, `more`, `head`, `tail`
+- **Searching Files** - `grep`, `find`
+
+## Advanced Utilities
+
+The utilities listed below can allow us to get more complex things done.
+
+- **Text Processing** - `awk`, `sed`, `diff`
+- **Downloading Files** - `curl`, `wget`
+- **Remote Access and File Transfer** - `ssh`, `scp`, `rsync`
+- **Terminal Multiplexers** - `tmux`, `screen`
+- **System Management** - `ps`, `df`, `du`, `top`, `htop`
+- **Network Management** - `ping`, `dig`
+
+## Common Utilities for Devs
+- Git - `git`
+- Docker - `docker`
+- Kubectl - `kubectl`
+- JQ - `jq`
+- AWS / Azure / Google Cloud CLI - `aws`, `az`, `gcloud`
+
+## Productivity Tips
+- **Using Aliases**: Frequently used commands or long commands can be aliased with a shortcut to save time and improve effeciency. For ex. `alias ll='ls -la'`
+- **History and Shortcuts**:
+
+## Scripting for Automation
+
+Using a combination of such utilities allows us to create really powerful automated workflows.
+
+- Shell Scripting
+- Python Scripting
+
+Use Cases:
+- Automating Backups
+- Log File Analysis
+- Data Transformation
+- Deployment Scripts
+
+## Real-World Examples
+
+## Con~~clu~~fession
+
+This presentation was created exclusively using command-line tools.
+
+## Conclusion
+- Start integrating command line utilities into your daily workflows.
+- Experiment with different tools and scripts.
+- Continually refine and customize your setup for maximum efficiency.
+
+
+## Questions
+
+## References
+
+TBA
