@@ -29,42 +29,33 @@ Let's take a look at some of the most common tools. These are preinstalled with 
 - **Viewing Files** - `cat`, `less`, `more`, `head`, `tail`
 - **Searching Files** - `grep`, `find`
 
-## Advanced Utilities
+## Alternatives to Basic Utilities
 
-The utilities listed below can allow us to get more complex things done.
+| Command | Alternate |
+| ------- | --------- |
+| cd      |  zoxide   |
+| ls      |  eza      |
+| find    |  fzf      |
 
-- **Text Processing** - `awk`, `sed`, `diff`
-- **Downloading Files** - `curl`, `wget`
-- **Remote Access and File Transfer** - `ssh`, `scp`, `rsync`
-- **Terminal Multiplexers** - `tmux`, `screen`
-- **System Management** - `ps`, `df`, `du`, `top`, `htop`
-- **Network Management** - `ping`, `dig`
+We can use aliases to our advantage to seamlessly integrate these advanced utilities into our daily workflow.
+
+## Improving your Terminal Experience
+
+Using a framework for your shell can greatly enhance your terminal experience. It will give you access to useful plugins and an improved prompt.
+
+- Oh my ZSH
+- Oh my BASH
 
 ## Common Utilities for Devs
+
 - Git - `git`
 - Docker - `docker`
 - Kubectl - `kubectl`
 - JQ - `jq`
 - AWS / Azure / Google Cloud CLI - `aws`, `az`, `gcloud`
-
-## Productivity Tips
-- **Using Aliases**: Frequently used commands or long commands can be aliased with a shortcut to save time and improve effeciency. For ex. `alias ll='ls -la'`
-- **History and Shortcuts**:
-
-## Scripting for Automation
-
-Using a combination of such utilities allows us to create really powerful automated workflows.
-
-- Shell Scripting
-- Python Scripting
-
-Use Cases:
-- Automating Backups
-- Log File Analysis
-- Data Transformation
-- Deployment Scripts
-
-## Real-World Examples
+- NodeJS - `nvm`
+- Python - `pyenv`
+- Java - `sdkman`
 
 ## Con~~clu~~fession
 
@@ -75,9 +66,6 @@ This presentation was created exclusively using command-line tools.
 - Experiment with different tools and scripts.
 - Continually refine and customize your setup for maximum efficiency.
 
-
 ## Questions
 
-## References
 
-TBA
